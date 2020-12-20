@@ -1,4 +1,4 @@
-fun main(args: Array) {
+fun main() {
     val number = 1634
     var originalNumber: Int
     var remainder: Int
